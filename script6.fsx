@@ -15,3 +15,6 @@ for _ in [1..80] do
     fish <- day fish
 
 printfn  "%A" fish.Length
+
+for _ in [1..256] do
+    fish <- day fish
